@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Prep5"
+        android:title="@string/Prep5"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep10"
+        android:title="@string/Prep10"
+        android:orderInCategory="2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep15"
+        android:title="@string/Prep15"
+        android:orderInCategory="3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep20"
+        android:title="@string/Prep20"
+        android:orderInCategory="4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep25"
+        android:title="@string/Prep25"
+        android:orderInCategory="5"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep30"
+        android:title="@string/Prep30"
+        android:orderInCategory="6"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep35"
+        android:title="@string/Prep35"
+        android:orderInCategory="7"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep40"
+        android:title="@string/Prep40"
+        android:orderInCategory="8"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep45"
+        android:title="@string/Prep45"
+        android:orderInCategory="9"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep50"
+        android:title="@string/Prep50"
+        android:orderInCategory="10"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep55"
+        android:title="@string/Prep55"
+        android:orderInCategory="11"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Prep60"
+        android:title="@string/Prep60"
+        android:orderInCategory="12"
+        app:showAsAction="never" />
+</menu>
